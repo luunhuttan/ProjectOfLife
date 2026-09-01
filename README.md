@@ -23,13 +23,14 @@ Sudden cardiac events require immediate detection, but continuously monitoring E
 
 ## Project Structure
 
+```
 ProjectOfLife/
-├── src/ # Core reusable code (data loading, preprocessing, training, evaluation)
-├── notebooks/ # Exploration and experimentation notebooks
-├── data/ # MIT-BIH dataset (not tracked in git)
+├── src/            # Core reusable code (data loading, preprocessing, training, evaluation)
+├── notebooks/      # Exploration and experimentation notebooks
+├── data/           # MIT-BIH dataset (not tracked in git)
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Setup
 
